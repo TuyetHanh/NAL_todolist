@@ -1,0 +1,1 @@
+* Tạo DB có tên "todolist", sau đó import file "todolist.sql" bên trong thư mục database
